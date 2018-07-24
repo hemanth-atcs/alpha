@@ -1,1 +1,1 @@
-module.exports = 'alpha updated'
+module.exports = 'alpha updated 1'

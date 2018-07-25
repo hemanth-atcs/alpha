@@ -1,1 +1,1 @@
-module.exports = 'alpha  super data'
+module.exports = 'alpha  super data void'

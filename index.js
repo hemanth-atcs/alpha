@@ -1,1 +1,1 @@
-module.exports = 'void'
+module.exports = 'super'
